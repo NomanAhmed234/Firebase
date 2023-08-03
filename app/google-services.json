@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833025569771",
+    "project_id": "fir-e140a",
+    "storage_bucket": "fir-e140a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833025569771:android:c415ea4181b8444eecdfae",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833025569771-7dctc9rgqdkdgq3gi77gqd8lovrenga6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrLj3wqQ3yujxuclx4zq5s0hL3tnY7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833025569771-7dctc9rgqdkdgq3gi77gqd8lovrenga6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
